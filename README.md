@@ -1,1 +1,3 @@
 # Term-deposite-subscription-of-bank
+A Portuguese bank has been experiencing a decline in revenue and seeks strategies to address the issue. Upon analysis, they discovered that fewer clients are making term deposits compared to previous periods. Since term deposits provide banks with stable funds for a fixed duration, they enable the institution to invest in high-yield financial products and generate profit. Additionally, clients who opt for term deposits are more likely to purchase complementary financial products such as insurance or investment funds, further boosting the bank's revenue. Therefore, the bank aims to identify clients with a higher likelihood of subscribing to term deposits and optimize marketing efforts toward these potential customers.
+
